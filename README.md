@@ -77,4 +77,6 @@ CDN_IMAGE=
 
 This project is using the license of MIT. See [LICENSE](LICENSE.md) file for more details
 
+Developed with Rocketseat support
+
 <br />
