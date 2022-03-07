@@ -1,4 +1,4 @@
-# Gameplay
+
 <h1 align="center">
   <img alt="GamePlay" height="80" title="Plant Manager" src="https://github.com/rocketseat-education/nlw-06-react-native/blob/master/.github/logo.png?raw=true" />
 </h1>
