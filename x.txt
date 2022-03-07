@@ -1,0 +1,16 @@
+I made the SignIN page with react, using buttons as components, and modals with styles, using a global styles for make easier to see the colors useds in whole app
+
+gameplay, we gonna use the discord API for make the groups and the backend easily.
+
+
+
+when people get nervous we see a lot of pacifying gestures, as moving their legs, manipulating their hands/feet for being more
+calm and less anxious.
+
+we tend to get closer to people we like so is a good thing, good confidence gestures is a good way to show your goods
+characterists but not for long, human can be fragile, don't be so ashamed of being sad or anxious, is normal everyone
+needs a help sometimes.
+
+I learned that people can be hard to keep the things together but i know that we have the power for being the example
+the good leader, whatever it takes :D
+
